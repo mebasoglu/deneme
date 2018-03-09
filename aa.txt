@@ -3,4 +3,4 @@ git commit -m "initial commit"
 
 
 git status
-git log
+git lo
